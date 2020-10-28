@@ -13,4 +13,4 @@
     <a href="https://twitter.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
 
-![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true)	![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true)
+![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true)	

@@ -16,4 +16,4 @@
 ![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true)
 
 <a href="https://github.com/satyaakam?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1" />	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1" />	
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1"/>		

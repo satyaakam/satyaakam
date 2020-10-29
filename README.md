@@ -6,12 +6,14 @@
 - 💬 Ask me about R&D for new ideas and products, Strategy in Business and Technology,  Mentoring ,Career advice , Developer Community Management ,Software Engineering using FOSS
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have been an avid sports person all my life , play tennis daily and can coach adults who are late bloomers !
-- 📫 How to reach me: 
+ 
     <br>
+    <div align="center" >
     <a href="mailto:satyaakam@gmail.com"><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp; 
+    </div>
 
 <a href="https://github.com/satyaakam?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true"/> </a>

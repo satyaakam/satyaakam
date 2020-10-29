@@ -13,7 +13,7 @@
     <a href="https://twitter.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
 
-![Satya's github stats](https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true)
-
 <a href="https://github.com/satyaakam?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1"/>		
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true"/> </a>
+<a href="https://github.com/satyaakam?tab=repositories">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyaakam&hide_langs_below=1"/> </a>

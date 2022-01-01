@@ -9,10 +9,10 @@
  
     <br>
     <div align="center" >
-    <a href="mailto:satyaakam@gmail.com"><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/twitter_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/satyaakam"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp; 
+    <a href="mailto:satyaakam@gmail.com"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/twitter.svg"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp; 
     </div>
 
 <a href="https://github.com/satyaakam?tab=repositories">

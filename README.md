@@ -25,8 +25,6 @@
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VISUAL--STUDIO--CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-<br>
     <br>
     <div align="center" >
     <a href="mailto:satyaakam@gmail.com"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
@@ -34,7 +32,7 @@
     <a href="https://twitter.com/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/twitter.svg"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/instagram.svg"></a>&nbsp;&nbsp; 
     </div>
-
+<br>
 <a href="https://github.com/satyaakam?tab=repositories">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=satyaakam&show_icons=true"/> </a>
 <a href="https://github.com/satyaakam?tab=repositories">

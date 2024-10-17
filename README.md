@@ -27,6 +27,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
     <br>
     <div align="center" >
+    [![Contact me on Codementor](https://www.codementor.io/m-badges/satyaakam/im-a-cm-b.svg)](https://www.codementor.io/@satyaakam?refer=badge)
     <a href="mailto:satyaakam@gmail.com"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/gmail.svg"></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/linkedin.svg"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/satyaakam"><img height="35" src="https://raw.githubusercontent.com/EXTREMOPHILARUM/SuperTinyIcons/master/images/svg/twitter.svg"></a>&nbsp;&nbsp;
